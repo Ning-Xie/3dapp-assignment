@@ -1,0 +1,53 @@
+{
+    "pageTextData": [
+		{
+			"title": "Coca Cola Great Britain",
+			"subTitle": "Founded in 1886 Dr John S Pemberton",		
+			"description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
+		},
+		{
+			"title": "Coca Cola",
+			"subTitle": "New York Harbour, 1886",		
+			"description": "It was 1886, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special!"
+		},
+		{
+			"title": "Coca Cola Zero",
+			"subTitle": "2005",		
+			"description": "Coke Zero, is a diet cola produced by The Coca-Cola Company. In some countries, it is sold as Coca-Cola No Sugar. The drink was introduced in 2005 as Coca-Cola Zero as a new no-calorie cola."
+		},
+		{
+			"title": "Coca Cola Diet",
+			"subTitle": "sugar-free",		
+			"description": "iet Coke, Coca-Cola Light or Coca-Cola Light Taste is a sugar-free and no-calorie soft drink produced and distributed by the Coca-Cola Company. It contains artificial sweeteners instead of sugar."
+		},
+		{
+			"x3dModelTitle": "Coca Cola X3D Model",
+			"x3dCreationMethod": "This X3D model of the coke can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "History of Coca Cola",
+			"subTitle": "Atlanta Beginnings",		
+			"description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p) a glass."
+		},
+		{
+			"x3dModelTitle": "Coca-Cola Zero X3D Model",
+			"x3dCreationMethod": "This X3D model of the Cola Zero has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Coca-Cola Zero Sugar",
+			"subTitle": "First introduced in 2005",		
+			"description": "Coca-Cola Zero was Coca-Cola's largest product launch in 22 years. The global campaign was developed by creative agency Crispin Porter + Bogusky. It was marketed as having a taste that is indistinguishable from standard Coca-Cola, as opposed to Diet Coke, which has a different flavor profile."
+		},
+        {
+			"x3dModelTitle": "Diet Coke X3D Model",
+			"x3dCreationMethod": "This X3D model of the Diet coke has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+			"title": "Diet Coke",
+			"subTitle": "Also known as Coca-Cola Light or Coca-Cola Light Taste",		
+			"description": "This is a sugar-free and no-calorie soft drink produced and distributed by the Coca-Cola Company. It contains artificial sweeteners instead of sugar. Unveiled on July 8, 1982, and introduced in the United States on August 9, it was the first new brand since 1886 to use the Coca-Cola trademark. The product quickly overtook the company's existing diet cola, Tab, in sales."
+		},
+		{
+			"galleryTitle": "Gallery",
+			"galleryDescription": "This is a gallery of related models"
+		},
+		{
+			"CameraTitle": "Camera Views",
+			"CameraSubtitle": "These buttons select a range of X3D model viewpoints"
+		}
+	]
+}
